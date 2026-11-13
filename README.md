@@ -1,4 +1,4 @@
-# Paper Bet Tracker
+# Grok Bot Bet Tracker
 
 A live dashboard for a **play-money** sports betting log. No real money is wagered.
 
