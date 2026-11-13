@@ -1,0 +1,5 @@
+sync.sh
+gen_data.py
+.DS_Store
+*.pyc
+__pycache__/

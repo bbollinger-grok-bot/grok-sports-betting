@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Paper Bet Tracker</title>
+  <meta name="description" content="Live play-money sports betting dashboard. No real money is wagered.">
+  <meta name="color-scheme" content="dark light">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <div class="hero-text">
+        <p class="eyebrow">Play money · no real stakes</p>
+        <h1>Paper Bet Tracker</h1>
+        <p class="lede">A live ledger of paper wagers — bankroll, record, and every ticket, open or settled.</p>
+      </div>
+      <p class="updated" id="updated">Loading…</p>
+    </header>
+
+    <nav class="filters" aria-label="League filter">
+      <p class="filter-label">League</p>
+      <div class="pills" id="league-pills"></div>
+    </nav>
+
+    <section class="stats" id="stats" aria-label="Headline stats"></section>
+
+    <section class="panel" aria-labelledby="chart-heading">
+      <div class="panel-head">
+        <h2 id="chart-heading">Running bankroll</h2>
+        <p class="panel-note" id="chart-note"></p>
+      </div>
+      <div class="chart-wrap" id="chart"></div>
+    </section>
+
+    <section class="panel" aria-labelledby="open-heading">
+      <div class="panel-head">
+        <h2 id="open-heading">Currently riding</h2>
+        <p class="panel-note" id="open-note"></p>
+      </div>
+      <div id="open-bets"></div>
+    </section>
+
+    <section class="panel" aria-labelledby="history-heading">
+      <div class="panel-head">
+        <h2 id="history-heading">Bet history</h2>
+        <p class="panel-note" id="history-note"></p>
+      </div>
+      <div id="history"></div>
+    </section>
+
+    <footer class="foot">
+      <p>Play-money log only. No real money is wagered.</p>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
