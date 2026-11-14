@@ -13,9 +13,9 @@
       "stake": 800,
       "confidence_1to5": 4,
       "reason": "Site line stale vs market ~-8.5; Haliburton out, Nesmith questionable",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -800
     },
     {
       "bet_id": "20261113-02",
@@ -29,9 +29,9 @@
       "stake": 500,
       "confidence_1to5": 3,
       "reason": "Site +9.5 vs market Magic -8.5; Banchero out, Suggs/da Silva questionable",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 954.55,
+      "profit": 454.55
     },
     {
       "bet_id": "20261113-03",
@@ -45,10 +45,90 @@
       "stake": 300,
       "confidence_1to5": 3,
       "reason": "Model UCLA by 14.1 vs -10",
+      "status": "lost",
+      "payout": 0,
+      "profit": -300
+    },
+    {
+      "bet_id": "20261114-01",
+      "placed_at_ct": "2026-11-14 10:35",
+      "game_date": "2026-11-14",
+      "league": "NCAAF",
+      "matchup": "Wake Forest at SMU",
+      "market": "Spread",
+      "selection": "SMU -1.5",
+      "odds_american": -110,
+      "stake": 550,
+      "confidence_1to5": 4,
+      "reason": "Market moved to SMU -2/-2.5; site still -1.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261114-02",
+      "placed_at_ct": "2026-11-14 10:35",
+      "game_date": "2026-11-14",
+      "league": "NCAAF",
+      "matchup": "Wisconsin at Maryland",
+      "market": "Total",
+      "selection": "Under 42.5",
+      "odds_american": -112,
+      "stake": 300,
+      "confidence_1to5": 3,
+      "reason": "Market 40.5-41.5; 15 mph wind, 49F",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261114-03",
+      "placed_at_ct": "2026-11-14 10:35",
+      "game_date": "2026-11-14",
+      "league": "NHL",
+      "matchup": "Kraken at Hurricanes",
+      "market": "Puck line",
+      "selection": "Hurricanes -1.5",
+      "odds_american": -155,
+      "stake": 800,
+      "confidence_1to5": 5,
+      "reason": "Market moved to CAR -2.5; site still -1.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261114-04",
+      "placed_at_ct": "2026-11-14 10:35",
+      "game_date": "2026-11-14",
+      "league": "NCAAF",
+      "matchup": "Minnesota at Penn State",
+      "market": "Spread",
+      "selection": "Penn State -11.5",
+      "odds_american": -112,
+      "stake": 550,
+      "confidence_1to5": 4,
+      "reason": "Market steamed to -12.5; site a point short",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261114-05",
+      "placed_at_ct": "2026-11-14 10:35",
+      "game_date": "2026-11-14",
+      "league": "NCAAF",
+      "matchup": "UNLV at New Mexico",
+      "market": "Spread",
+      "selection": "New Mexico -16.5",
+      "odds_american": -115,
+      "stake": 300,
+      "confidence_1to5": 3,
+      "reason": "Market -17.5 after steam; site a point short",
       "status": "open",
       "payout": null,
       "profit": null
     }
   ],
-  "updated_at": "2026-11-13T17:32:11Z"
+  "updated_at": "2026-11-14T17:09:08Z"
 }
