@@ -93,9 +93,9 @@
       "stake": 800,
       "confidence_1to5": 5,
       "reason": "Market moved to CAR -2.5; site still -1.5",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 1316.13,
+      "profit": 516.13
     },
     {
       "bet_id": "20261114-04",
@@ -130,5 +130,5 @@
       "profit": null
     }
   ],
-  "updated_at": "2026-11-14T20:48:44Z"
+  "updated_at": "2026-11-14T21:54:48Z"
 }
