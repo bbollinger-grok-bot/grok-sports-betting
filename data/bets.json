@@ -61,9 +61,9 @@
       "stake": 550,
       "confidence_1to5": 4,
       "reason": "Market moved to SMU -2/-2.5; site still -1.5",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -550
     },
     {
       "bet_id": "20261114-02",
@@ -77,9 +77,9 @@
       "stake": 300,
       "confidence_1to5": 3,
       "reason": "Market 40.5-41.5; 15 mph wind, 49F",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -300
     },
     {
       "bet_id": "20261114-03",
@@ -130,5 +130,5 @@
       "profit": null
     }
   ],
-  "updated_at": "2026-11-14T17:09:08Z"
+  "updated_at": "2026-11-14T20:48:44Z"
 }
