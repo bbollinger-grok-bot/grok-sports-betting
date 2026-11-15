@@ -125,10 +125,10 @@
       "stake": 300,
       "confidence_1to5": 3,
       "reason": "Market -17.5 after steam; site a point short",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -300
     }
   ],
-  "updated_at": "2026-11-15T03:53:44Z"
+  "updated_at": "2026-11-15T04:52:32Z"
 }
