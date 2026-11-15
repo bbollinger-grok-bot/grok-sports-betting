@@ -141,9 +141,9 @@
       "stake": 350,
       "confidence_1to5": 3,
       "reason": "Research flagged line move toward Miami; site had Dolphins +4.5 (side may have been misread in research)",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 662.5,
+      "profit": 312.5
     },
     {
       "bet_id": "20261115-02",
@@ -157,10 +157,10 @@
       "stake": 350,
       "confidence_1to5": 3,
       "reason": "Research flagged move to Carolina; site had Panthers +1.5 (side may have been misread in research)",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 683.33,
+      "profit": 333.33
     }
   ],
-  "updated_at": "2026-11-15T16:48:22Z"
+  "updated_at": "2026-11-15T21:51:16Z"
 }
