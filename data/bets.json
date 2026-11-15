@@ -128,7 +128,39 @@
       "status": "lost",
       "payout": 0,
       "profit": -300
+    },
+    {
+      "bet_id": "20261115-01",
+      "placed_at_ct": "2026-11-15 10:40",
+      "game_date": "2026-11-15",
+      "league": "NFL",
+      "matchup": "Dolphins at Colts",
+      "market": "Spread",
+      "selection": "Dolphins +4.5",
+      "odds_american": -112,
+      "stake": 350,
+      "confidence_1to5": 3,
+      "reason": "Research flagged line move toward Miami; site had Dolphins +4.5 (side may have been misread in research)",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261115-02",
+      "placed_at_ct": "2026-11-15 10:40",
+      "game_date": "2026-11-15",
+      "league": "NFL",
+      "matchup": "Panthers at Saints",
+      "market": "Spread",
+      "selection": "Panthers +1.5",
+      "odds_american": -105,
+      "stake": 350,
+      "confidence_1to5": 3,
+      "reason": "Research flagged move to Carolina; site had Panthers +1.5 (side may have been misread in research)",
+      "status": "open",
+      "payout": null,
+      "profit": null
     }
   ],
-  "updated_at": "2026-11-15T04:52:32Z"
+  "updated_at": "2026-11-15T16:48:22Z"
 }
