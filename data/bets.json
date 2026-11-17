@@ -160,7 +160,55 @@
       "status": "won",
       "payout": 683.33,
       "profit": 333.33
+    },
+    {
+      "bet_id": "20261117-01",
+      "placed_at_ct": "2026-11-17 10:35",
+      "game_date": "2026-11-17",
+      "league": "NHL",
+      "matchup": "Oilers at Panthers",
+      "market": "Moneyline",
+      "selection": "Oilers ML",
+      "odds_american": 100,
+      "stake": 400,
+      "confidence_1to5": 3,
+      "reason": "FLA 3rd game in 4 nights; EDM 9-0-1 road, 5 straight wins",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261117-02",
+      "placed_at_ct": "2026-11-17 10:35",
+      "game_date": "2026-11-17",
+      "league": "NBA",
+      "matchup": "Pistons at Spurs",
+      "market": "Spread",
+      "selection": "Spurs -8.5",
+      "odds_american": -110,
+      "stake": 400,
+      "confidence_1to5": 3,
+      "reason": "Site -8.5 vs market -9.5; DET missing Duren, Holland, Prince, Robinson, Joe doubtful",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261117-03",
+      "placed_at_ct": "2026-11-17 10:35",
+      "game_date": "2026-11-17",
+      "league": "NHL",
+      "matchup": "Kings at Bruins",
+      "market": "Moneyline",
+      "selection": "Bruins ML",
+      "odds_american": -155,
+      "stake": 250,
+      "confidence_1to5": 2,
+      "reason": "LAK lost 4 straight (5-11-2); BOS 8-3 home and rested",
+      "status": "open",
+      "payout": null,
+      "profit": null
     }
   ],
-  "updated_at": "2026-11-15T21:51:16Z"
+  "updated_at": "2026-11-17T16:46:55Z"
 }
