@@ -173,9 +173,9 @@
       "stake": 400,
       "confidence_1to5": 3,
       "reason": "FLA 3rd game in 4 nights; EDM 9-0-1 road, 5 straight wins",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 800,
+      "profit": 400
     },
     {
       "bet_id": "20261117-02",
@@ -205,10 +205,10 @@
       "stake": 250,
       "confidence_1to5": 2,
       "reason": "LAK lost 4 straight (5-11-2); BOS 8-3 home and rested",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -250
     }
   ],
-  "updated_at": "2026-11-17T16:46:55Z"
+  "updated_at": "2026-11-18T03:53:10Z"
 }
