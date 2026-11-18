@@ -208,7 +208,23 @@
       "status": "lost",
       "payout": 0,
       "profit": -250
+    },
+    {
+      "bet_id": "20261118-01",
+      "placed_at_ct": "2026-11-18 10:32",
+      "game_date": "2026-11-18",
+      "league": "NHL",
+      "matchup": "Bruins at Red Wings",
+      "market": "Total",
+      "selection": "Under 5.5",
+      "odds_american": 114,
+      "stake": 250,
+      "confidence_1to5": 3,
+      "reason": "DET scoring 1.83 g/gm in 1-5 slump; BOS on back-to-back; Swayman starts; plus-money under",
+      "status": "open",
+      "payout": null,
+      "profit": null
     }
   ],
-  "updated_at": "2026-11-18T05:46:43Z"
+  "updated_at": "2026-11-18T16:54:28Z"
 }
