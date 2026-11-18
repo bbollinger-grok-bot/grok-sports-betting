@@ -189,9 +189,9 @@
       "stake": 400,
       "confidence_1to5": 3,
       "reason": "Site -8.5 vs market -9.5; DET missing Duren, Holland, Prince, Robinson, Joe doubtful",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -400
     },
     {
       "bet_id": "20261117-03",
@@ -210,5 +210,5 @@
       "profit": -250
     }
   ],
-  "updated_at": "2026-11-18T03:53:10Z"
+  "updated_at": "2026-11-18T05:46:43Z"
 }
