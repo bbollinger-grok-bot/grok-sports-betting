@@ -221,10 +221,10 @@
       "stake": 250,
       "confidence_1to5": 3,
       "reason": "DET scoring 1.83 g/gm in 1-5 slump; BOS on back-to-back; Swayman starts; plus-money under",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 535,
+      "profit": 285
     }
   ],
-  "updated_at": "2026-11-18T16:54:28Z"
+  "updated_at": "2026-11-19T03:46:36Z"
 }
