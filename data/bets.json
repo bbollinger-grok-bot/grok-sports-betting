@@ -224,7 +224,55 @@
       "status": "won",
       "payout": 535,
       "profit": 285
+    },
+    {
+      "bet_id": "20261120-01",
+      "placed_at_ct": "2026-11-20 10:31",
+      "game_date": "2026-11-20",
+      "league": "NBA",
+      "matchup": "Pacers at Cavaliers",
+      "market": "Spread",
+      "selection": "Pacers +7.5",
+      "odds_american": -114,
+      "stake": 350,
+      "confidence_1to5": 3,
+      "reason": "Site still near open +7.5; market moved to +5.5 with Mobley out",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261120-02",
+      "placed_at_ct": "2026-11-20 10:31",
+      "game_date": "2026-11-20",
+      "league": "NBA",
+      "matchup": "Hornets at Hawks",
+      "market": "Spread",
+      "selection": "Hawks -5.5",
+      "odds_american": -110,
+      "stake": 200,
+      "confidence_1to5": 2,
+      "reason": "Market moved to ATL -6.5; CHA missing Allen/G. Williams",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261120-03",
+      "placed_at_ct": "2026-11-20 10:31",
+      "game_date": "2026-11-20",
+      "league": "NCAAF",
+      "matchup": "Iowa State at UCF",
+      "market": "Spread",
+      "selection": "Iowa State +1.5",
+      "odds_american": -112,
+      "stake": 350,
+      "confidence_1to5": 3,
+      "reason": "Market flipped 3 pts to ISU (-1.5); site stale at ISU +1.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
     }
   ],
-  "updated_at": "2026-11-19T03:46:36Z"
+  "updated_at": "2026-11-20T16:54:26Z"
 }
