@@ -237,9 +237,9 @@
       "stake": 350,
       "confidence_1to5": 3,
       "reason": "Site still near open +7.5; market moved to +5.5 with Mobley out",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -350
     },
     {
       "bet_id": "20261120-02",
@@ -269,10 +269,10 @@
       "stake": 350,
       "confidence_1to5": 3,
       "reason": "Market flipped 3 pts to ISU (-1.5); site stale at ISU +1.5",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -350
     }
   ],
-  "updated_at": "2026-11-21T02:46:49Z"
+  "updated_at": "2026-11-21T03:51:30Z"
 }
