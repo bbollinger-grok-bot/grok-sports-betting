@@ -253,9 +253,9 @@
       "stake": 200,
       "confidence_1to5": 2,
       "reason": "Market moved to ATL -6.5; CHA missing Allen/G. Williams",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 381.82,
+      "profit": 181.82
     },
     {
       "bet_id": "20261120-03",
@@ -274,5 +274,5 @@
       "profit": null
     }
   ],
-  "updated_at": "2026-11-20T16:54:26Z"
+  "updated_at": "2026-11-21T02:46:49Z"
 }
