@@ -272,7 +272,39 @@
       "status": "lost",
       "payout": 0,
       "profit": -350
+    },
+    {
+      "bet_id": "20261121-01",
+      "placed_at_ct": "2026-11-21 10:43",
+      "game_date": "2026-11-21",
+      "league": "NBA",
+      "matchup": "Pelicans at Spurs",
+      "market": "Spread",
+      "selection": "Spurs -16.5",
+      "odds_american": -110,
+      "stake": 300,
+      "confidence_1to5": 3,
+      "reason": "Market -16.5 to -18.5; NOP 2nd night of back-to-back, Murray out",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261121-02",
+      "placed_at_ct": "2026-11-21 10:43",
+      "game_date": "2026-11-21",
+      "league": "NBA",
+      "matchup": "Trail Blazers at Knicks",
+      "market": "Spread",
+      "selection": "Trail Blazers +5.5",
+      "odds_american": -110,
+      "stake": 300,
+      "confidence_1to5": 3,
+      "reason": "Market NYK -5.5 to -3.5; Towns and Anunoby questionable",
+      "status": "open",
+      "payout": null,
+      "profit": null
     }
   ],
-  "updated_at": "2026-11-21T03:51:30Z"
+  "updated_at": "2026-11-21T16:48:36Z"
 }
