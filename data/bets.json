@@ -285,9 +285,9 @@
       "stake": 300,
       "confidence_1to5": 3,
       "reason": "Market -16.5 to -18.5; NOP 2nd night of back-to-back, Murray out",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 572.73,
+      "profit": 272.73
     },
     {
       "bet_id": "20261121-02",
@@ -301,10 +301,10 @@
       "stake": 300,
       "confidence_1to5": 3,
       "reason": "Market NYK -5.5 to -3.5; Towns and Anunoby questionable",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 572.73,
+      "profit": 272.73
     }
   ],
-  "updated_at": "2026-11-21T16:48:36Z"
+  "updated_at": "2026-11-22T03:51:19Z"
 }
