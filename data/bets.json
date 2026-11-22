@@ -304,7 +304,39 @@
       "status": "won",
       "payout": 572.73,
       "profit": 272.73
+    },
+    {
+      "bet_id": "20261122-01",
+      "placed_at_ct": "2026-11-22 10:33",
+      "game_date": "2026-11-22",
+      "league": "NBA",
+      "matchup": "Pistons at Hawks",
+      "market": "total",
+      "selection": "Under 227.5",
+      "odds_american": -110,
+      "stake": 400,
+      "confidence_1to5": 3,
+      "reason": "Market total fell 227.5 to 223.5 with heavy injuries both sides; site still 227.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261122-02",
+      "placed_at_ct": "2026-11-22 10:33",
+      "game_date": "2026-11-22",
+      "league": "NBA",
+      "matchup": "Thunder at Heat",
+      "market": "spread",
+      "selection": "Heat -2.5",
+      "odds_american": -105,
+      "stake": 300,
+      "confidence_1to5": 3,
+      "reason": "Market moved MIA -2.5 to -3.5; OKC missing Holmgren J.Williams Caruso Wallace",
+      "status": "open",
+      "payout": null,
+      "profit": null
     }
   ],
-  "updated_at": "2026-11-22T03:51:19Z"
+  "updated_at": "2026-11-22T16:56:31Z"
 }
