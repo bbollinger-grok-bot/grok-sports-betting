@@ -336,7 +336,55 @@
       "status": "won",
       "payout": 585.71,
       "profit": 285.71
+    },
+    {
+      "bet_id": "20261123-01",
+      "placed_at_ct": "2026-11-23 10:30",
+      "game_date": "2026-11-23",
+      "league": "NBA",
+      "matchup": "Grizzlies at Hornets",
+      "market": "Spread",
+      "selection": "Hornets +4.5",
+      "odds_american": -115,
+      "stake": 250,
+      "confidence_1to5": 3,
+      "reason": "Market moved CHA +4 to +2.5; Jerami Grant out for MEM; site still +4.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261123-02",
+      "placed_at_ct": "2026-11-23 10:30",
+      "game_date": "2026-11-23",
+      "league": "NBA",
+      "matchup": "Jazz at Lakers",
+      "market": "Spread",
+      "selection": "Lakers -12.5",
+      "odds_american": -115,
+      "stake": 200,
+      "confidence_1to5": 2,
+      "reason": "Market moved LAL -12.5 to -13.5; site still -12.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261123-03",
+      "placed_at_ct": "2026-11-23 10:30",
+      "game_date": "2026-11-23",
+      "league": "NBA",
+      "matchup": "Trail Blazers at 76ers",
+      "market": "Spread",
+      "selection": "76ers -2.5",
+      "odds_american": -110,
+      "stake": 200,
+      "confidence_1to5": 2,
+      "reason": "Market moved PHI -2.5 to -3.5; site still -2.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
     }
   ],
-  "updated_at": "2026-11-23T01:53:58Z"
+  "updated_at": "2026-11-23T16:46:59Z"
 }
