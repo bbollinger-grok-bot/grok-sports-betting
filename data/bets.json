@@ -333,10 +333,10 @@
       "stake": 300,
       "confidence_1to5": 3,
       "reason": "Market moved MIA -2.5 to -3.5; OKC missing Holmgren J.Williams Caruso Wallace",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 585.71,
+      "profit": 285.71
     }
   ],
-  "updated_at": "2026-11-22T23:55:50Z"
+  "updated_at": "2026-11-23T01:53:58Z"
 }
