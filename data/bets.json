@@ -365,9 +365,9 @@
       "stake": 200,
       "confidence_1to5": 2,
       "reason": "Market moved LAL -12.5 to -13.5; site still -12.5",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 373.91,
+      "profit": 173.91
     },
     {
       "bet_id": "20261123-03",
@@ -386,5 +386,5 @@
       "profit": -200
     }
   ],
-  "updated_at": "2026-11-24T02:55:33Z"
+  "updated_at": "2026-11-24T06:56:23Z"
 }
