@@ -384,7 +384,39 @@
       "status": "lost",
       "payout": 0,
       "profit": -200
+    },
+    {
+      "bet_id": "20261124-01",
+      "placed_at_ct": "2026-11-24 10:31",
+      "game_date": "2026-11-24",
+      "league": "NBA",
+      "matchup": "Pistons at Magic",
+      "market": "Spread",
+      "selection": "Pistons -1.5",
+      "odds_american": -106,
+      "stake": 300,
+      "confidence_1to5": 3,
+      "reason": "Market moved DET -1.5 to -2.5; Cade probable, Banchero out; site still -1.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261124-02",
+      "placed_at_ct": "2026-11-24 10:31",
+      "game_date": "2026-11-24",
+      "league": "NBA",
+      "matchup": "Celtics at Wizards",
+      "market": "Total",
+      "selection": "Over 216.5",
+      "odds_american": -110,
+      "stake": 150,
+      "confidence_1to5": 2,
+      "reason": "Market total up to 217.5; site still 216.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
     }
   ],
-  "updated_at": "2026-11-24T06:56:23Z"
+  "updated_at": "2026-11-24T16:56:02Z"
 }
