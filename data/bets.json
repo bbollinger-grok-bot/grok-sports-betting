@@ -349,9 +349,9 @@
       "stake": 250,
       "confidence_1to5": 3,
       "reason": "Market moved CHA +4 to +2.5; Jerami Grant out for MEM; site still +4.5",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -250
     },
     {
       "bet_id": "20261123-02",
@@ -381,10 +381,10 @@
       "stake": 200,
       "confidence_1to5": 2,
       "reason": "Market moved PHI -2.5 to -3.5; site still -2.5",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -200
     }
   ],
-  "updated_at": "2026-11-23T16:46:59Z"
+  "updated_at": "2026-11-24T02:55:33Z"
 }
