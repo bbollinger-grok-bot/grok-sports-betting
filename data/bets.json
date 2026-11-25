@@ -413,10 +413,10 @@
       "stake": 150,
       "confidence_1to5": 2,
       "reason": "Market total up to 217.5; site still 216.5",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "won",
+      "payout": 286.36,
+      "profit": 136.36
     }
   ],
-  "updated_at": "2026-11-25T02:54:06Z"
+  "updated_at": "2026-11-25T04:50:51Z"
 }
