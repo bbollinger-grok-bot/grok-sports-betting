@@ -416,7 +416,39 @@
       "status": "won",
       "payout": 286.36,
       "profit": 136.36
+    },
+    {
+      "bet_id": "20261127-01",
+      "placed_at_ct": "2026-11-27 10:34",
+      "game_date": "2026-11-27",
+      "league": "NCAAF",
+      "matchup": "Texas at Texas A&M",
+      "market": "Spread",
+      "selection": "Texas -10.5",
+      "odds_american": -115,
+      "stake": 200,
+      "confidence_1to5": 3,
+      "reason": "Market moved A&M +2.5 to +11.5; site stale at -10.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
+    },
+    {
+      "bet_id": "20261127-02",
+      "placed_at_ct": "2026-11-27 10:34",
+      "game_date": "2026-11-27",
+      "league": "NCAAF",
+      "matchup": "Temple at Memphis",
+      "market": "Spread",
+      "selection": "Memphis -18.5",
+      "odds_american": -108,
+      "stake": 200,
+      "confidence_1to5": 2,
+      "reason": "Market moved Memphis -15.5 to -20; site stale at -18.5",
+      "status": "open",
+      "payout": null,
+      "profit": null
     }
   ],
-  "updated_at": "2026-11-25T04:50:51Z"
+  "updated_at": "2026-11-27T16:50:53Z"
 }
