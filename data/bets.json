@@ -429,9 +429,9 @@
       "stake": 200,
       "confidence_1to5": 3,
       "reason": "Market moved A&M +2.5 to +11.5; site stale at -10.5",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -200
     },
     {
       "bet_id": "20261127-02",
@@ -450,5 +450,5 @@
       "profit": -200
     }
   ],
-  "updated_at": "2026-11-28T00:48:20Z"
+  "updated_at": "2026-11-28T16:56:04Z"
 }
