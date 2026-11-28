@@ -445,10 +445,10 @@
       "stake": 200,
       "confidence_1to5": 2,
       "reason": "Market moved Memphis -15.5 to -20; site stale at -18.5",
-      "status": "open",
-      "payout": null,
-      "profit": null
+      "status": "lost",
+      "payout": 0,
+      "profit": -200
     }
   ],
-  "updated_at": "2026-11-27T16:50:53Z"
+  "updated_at": "2026-11-28T00:48:20Z"
 }
